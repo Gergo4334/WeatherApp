@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hourly_forecast">HOURLY FORECAST</string>
+    <string name="daily_forecast">DAILY FORECAST</string>
+    <string name="button_light_theme">Change to Dark Theme</string>
+    <string name="button_dark_theme">Change to Light Theme</string>
+</resources>
