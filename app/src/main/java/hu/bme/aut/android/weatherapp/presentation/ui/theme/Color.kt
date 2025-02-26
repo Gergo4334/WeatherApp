@@ -4,7 +4,7 @@ import androidx.compose.ui.graphics.Color
 
 // Light Theme
 val SunYellow = Color(0xFFF8D578)
-val SkyBlue = Color(0xFF7FD0F6)
+val SkyBlue = Color(0xFFA5CFFC)
 val GrassGreen = Color(0xFF81C784)
 val MistyGreen = Color(0xFFF1F8E9)
 val PureWhite = Color(0xFFFFFFFF)

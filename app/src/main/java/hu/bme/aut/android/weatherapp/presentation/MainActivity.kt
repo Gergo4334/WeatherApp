@@ -85,7 +85,8 @@ class MainActivity : ComponentActivity() {
                                 viewModel.toggleTheme()
                             },
                             shape = RoundedCornerShape(10.dp),
-                            colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.secondary)
+                            colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.secondary),
+                            modifier = Modifier.padding(vertical = 10.dp)
                         ) {
                             Text(
                                 text = if(viewModel.state.isDarkTheme) {
